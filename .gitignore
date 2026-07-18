@@ -1,0 +1,4 @@
+.env
+dbt-profiles/
+logs/
+config/
