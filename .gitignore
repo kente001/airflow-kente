@@ -2,3 +2,6 @@
 dbt-profiles/
 logs/
 config/
+
+__pycache__/
+*.pyc
